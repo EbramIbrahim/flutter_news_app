@@ -33,6 +33,7 @@ class _HomeScreen extends State<HomeScreen> {
   Widget build(BuildContext context) {
     Orientation orientation = MediaQuery.of(context).orientation;
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       backgroundColor: AppColors.white,
       appBar: AppBar(
         backgroundColor: AppColors.appBarColor,

@@ -195,7 +195,7 @@ class _LoginScreen extends State<LoginScreen> {
                     Center(
                       child: RichText(
                         text: TextSpan(
-                          text: "don'thave_acc".tr(),
+                          text: "don't_have_acc".tr(),
                           style: AppStyles.black16W500TextStyle.copyWith(
                             color: AppColors.primaryColor,
                           ),
