@@ -29,9 +29,8 @@ A modern news application featuring real-time news updates, personalized content
 - **Routing**: Go Router
 - **HTTP Client**: Dio
 - **News API**: [NewsAPI.org](https://newsapi.org)
-- **Dependency Injection**: Get It
 - **Localization**: Easy Localization
-- **UI**: Responsive Design, Shimmer Effects
+- **UI**: Responsive Design, 
 
 ## Installation ⚙️
 1. Clone the repository:
