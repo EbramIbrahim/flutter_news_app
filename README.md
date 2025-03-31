@@ -1,16 +1,40 @@
-# news_app
+# NewsWave - Modern News App 📰
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.19-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Emulator-orange)
+![Bloc](https://img.shields.io/badge/State%20Management-Bloc-purple)
 
-## Getting Started
+A modern news application featuring real-time news updates, personalized content, and seamless authentication. Built with Flutter and integrated with Firebase services.
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="screenshots/home.png" width200>
+  <img src="screenshots/detail.png" width200>
+  <img src="screenshots/search.png" width200>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Features ✨
+- 🔐 Firebase Authentication (Email/Password & Google Sign-In)
+- 📰 Top Headlines & Trending News Sections
+- 🔍 Intelligent News Search Functionality
+- 📱 Adaptive UI for All Screen Sizes
+- 🌐 Real-time News Updates via API
+- 📑 News Categories (Business, Technology, Sports, etc.)
+- 💾 Bookmarking System (Coming Soon)
+- 🎨 Dark/Light Theme Support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies 🛠️
+- **Framework**: Flutter (Dart)
+- **Backend**: Firebase (Auth, Firestore)
+- **State Management**: Bloc & Cubit
+- **Routing**: Go Router
+- **HTTP Client**: Dio
+- **News API**: [NewsAPI.org](https://newsapi.org)
+- **Dependency Injection**: Get It
+- **Localization**: Easy Localization
+- **UI**: Responsive Design, Shimmer Effects
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation ⚙️
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/EbramIbrahim/flutter_news_app.git
+   cd newswave
