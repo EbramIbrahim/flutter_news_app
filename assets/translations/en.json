@@ -1,0 +1,23 @@
+{
+    "explore": "Explore",
+    "travel": "Travel",
+    "technology": "Technology",
+    "business": "Business",
+    "entertainment": "Entertainment",
+    "cancel": "Cancel",
+    "search_result": "Search result",
+    "no_results": "No result",
+    "search": "Search",
+    "welcome": "Welcome back! Again!",
+    "name_hint":"Enter Your Name",
+    "email_hint":"Enter Your Email",
+    "password_hint":"Enter Your Password",
+    "login":"Login",
+    "register":"Register",
+    "login_with":"Or Login With",
+    "have_acc":"have an account? ",
+    "login_now": "Login now",
+    "don'thave_acc":"don't have an account? ",
+    "register_now": "Register now"
+
+}

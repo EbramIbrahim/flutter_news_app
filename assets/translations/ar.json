@@ -1,0 +1,24 @@
+{
+  "explore": "استكشف",
+    "travel": "سفر",
+    "technology": "تقنية",
+    "business": "أعمال",
+    "entertainment": "ترفيه",
+    "cancel": "إلغاء",
+    "search_result": "نتيجة البحث",
+    "no_results": "لا يوجد نتائج",
+    "search": "بحث",
+    "welcome": "مرحباً بك مجدداً!",
+    "name_hine":"أدخل اسمك",
+    "email_hint":"أدخل الايميل",
+    "password_hint":"أدخل الرقم السري",
+    "login":"تسجيل الدخول",
+    "register":"سجل",
+    "login_with":"أو تسجيل الدخول باستخدام",
+    "have_acc":" لديك حساب؟",
+    "login_now": "سجل الآن",
+    "don'thave_acc":" ليس لديك حساب؟",
+    "register_now": "سجل الآن"
+
+
+}
